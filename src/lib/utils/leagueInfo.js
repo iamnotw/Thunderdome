@@ -89,7 +89,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
   ]
   
   
-  /*   !!  !!  IMPORTANT  !!  !! */
+  /*   !!  !  IMPORTANT  !!  !! */
   /*
   Below is the most up to-date version of a manager. Please leave this commented out
   and don't delete it. This will be updated if any fields are added, removed or changed
